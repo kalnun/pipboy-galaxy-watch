@@ -1,6 +1,6 @@
-# Pip-boy Galaxy Watch
+# Pipboy Galaxy Watch
 
-This repository hosts a Samsung Galaxy Watch 5 application that mimics the Pip-boy 3000 in Fallout.
+This repository hosts a Samsung Galaxy Watch 5 application that mimics the Pipboy-3000 MK IV in Fallout.
 
 ### Tools
   - Photoshop
